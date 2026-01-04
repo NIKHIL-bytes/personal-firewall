@@ -27,7 +27,7 @@ The goal is to understand how firewalls conceptually work rather than replace sy
 
 ## Usage
 
-Install dependencies:
-- pip install -r requirements.txt
-Run the firewall:
-- python firewall.py
+- Install dependencies:
+ - pip install -r requirements.txt
+- Run the firewall:
+ - python firewall.py
